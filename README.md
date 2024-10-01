@@ -1,0 +1,1 @@
+# plugins-vc-simple-all-responsive
